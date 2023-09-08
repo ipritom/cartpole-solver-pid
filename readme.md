@@ -1,5 +1,8 @@
 # Cart-pole Game Solver with PID
 
+Cart-pole environmet description will be found here: 
+https://www.gymlibrary.dev/environments/classic_control/cart_pole/
+
 # How to use
 * Install gym-box2d library
 
